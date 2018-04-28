@@ -11,8 +11,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //varialbele1 = "";
-        //variable2 = "";
+        varialbele1 = "Sid";
+        variable2 = null;
 //        variable3 = "";
 //        ageVar = 0;
     }
